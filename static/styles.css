@@ -1,0 +1,18 @@
+body{
+    background-color:antiquewhite;
+}
+
+.profile-section {
+    text-align: center;
+}
+
+.profile-section img {
+    display: block;
+    margin: 0 auto;
+}
+
+.profile-section h1,
+.profile-section h2,
+.profile-section h3 {
+    margin: 10px 0;
+}
